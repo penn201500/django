@@ -498,3 +498,109 @@
 
 ###!!! [Child][MessageChannel] Error: (msgtype=0x400003,name=PCompositable::Msg_Destroy) Channel error: cannot send/recv
 
+1479225786878	geckodriver	INFO	Listening on 127.0.0.1:51227
+1479225787878	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.9fheJEW0h972
+1479225787879	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1479225787882	geckodriver::marionette	INFO	Connecting to Marionette on localhost:36546
+1479225788357	Marionette	INFO	Listening on port 36546
+1479225789181	Marionette	INFO	startBrowser 1663a0ec-e17e-4180-af11-3f97374abd12
+
+(firefox:27646): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:27646): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:27646): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+[Child 27717] ###!!! ABORT: Aborting on channel error.: file /tmp/buildd/firefox-49.0+linuxmint1+sarah/ipc/glue/MessageChannel.cpp, line 2052
+[Child 27717] ###!!! ABORT: Aborting on channel error.: file /tmp/buildd/firefox-49.0+linuxmint1+sarah/ipc/glue/MessageChannel.cpp, line 2052
+
+###!!! [Child][MessageChannel] Error: (msgtype=0xFA0005,name=PTexture::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x400003,name=PCompositable::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x400003,name=PCompositable::Msg_Destroy) Channel error: cannot send/recv
+
+1479225812441	geckodriver	INFO	Listening on 127.0.0.1:42619
+1479225813441	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.tbctmifXQtiQ
+1479225813442	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1479225813443	geckodriver::marionette	INFO	Connecting to Marionette on localhost:41244
+1479225813920	Marionette	INFO	Listening on port 41244
+1479225814743	Marionette	INFO	startBrowser bb3d788b-f1aa-41db-829a-97c0ae2ef277
+
+(firefox:28062): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:28062): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:28062): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+[Child 28131] ###!!! ABORT: Aborting on channel error.: file /tmp/buildd/firefox-49.0+linuxmint1+sarah/ipc/glue/MessageChannel.cpp, line 2052
+[Child 28131] ###!!! ABORT: Aborting on channel error.: file /tmp/buildd/firefox-49.0+linuxmint1+sarah/ipc/glue/MessageChannel.cpp, line 2052
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x400003,name=PCompositable::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0xFA0005,name=PTexture::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x400003,name=PCompositable::Msg_Destroy) Channel error: cannot send/recv
+
+1479225856165	geckodriver	INFO	Listening on 127.0.0.1:45307
+1479225857165	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.MSgVULZefjI9
+1479225857167	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1479225857169	geckodriver::marionette	INFO	Connecting to Marionette on localhost:33007
+1479225857642	Marionette	INFO	Listening on port 33007
+1479225858451	Marionette	INFO	startBrowser 87eb48c8-eb7f-4ff6-a518-523e493e4bee
+
+(firefox:28585): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:28585): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:28585): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+[Child 28658] WARNING: pipe error (17): Connection reset by peer: file /tmp/buildd/firefox-49.0+linuxmint1+sarah/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 316
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+[Child 28658] WARNING: pipe error (3): Connection reset by peer: file /tmp/buildd/firefox-49.0+linuxmint1+sarah/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 316
+[Child 28658] ###!!! ABORT: Aborting on channel error.: file /tmp/buildd/firefox-49.0+linuxmint1+sarah/ipc/glue/MessageChannel.cpp, line 2052
+[Child 28658] ###!!! ABORT: Aborting on channel error.: file /tmp/buildd/firefox-49.0+linuxmint1+sarah/ipc/glue/MessageChannel.cpp, line 2052
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x400003,name=PCompositable::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x900001,name=PLayer::Msg___delete__) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0xFA0005,name=PTexture::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0xFA0005,name=PTexture::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x400003,name=PCompositable::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x900001,name=PLayer::Msg___delete__) Channel error: cannot send/recv
+
+1479225888932	geckodriver	INFO	Listening on 127.0.0.1:49197
+1479225889931	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.xIBGEanwvTfx
+1479225889931	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1479225889933	geckodriver::marionette	INFO	Connecting to Marionette on localhost:35483
+1479225890405	Marionette	INFO	Listening on port 35483
+1479225891239	Marionette	INFO	startBrowser b9a2d984-c891-4a72-9c79-bab1d651eec2
+
+(firefox:29072): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:29072): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:29072): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+[Child 29144] ###!!! ABORT: Aborting on channel error.: file /tmp/buildd/firefox-49.0+linuxmint1+sarah/ipc/glue/MessageChannel.cpp, line 2052
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x400003,name=PCompositable::Msg_Destroy) Channel error: cannot send/recv
+
+[Child 29144] ###!!! ABORT: Aborting on channel error.: file /tmp/buildd/firefox-49.0+linuxmint1+sarah/ipc/glue/MessageChannel.cpp, line 2052
+
+###!!! [Child][MessageChannel] Error: (msgtype=0xFA0005,name=PTexture::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x400003,name=PCompositable::Msg_Destroy) Channel error: cannot send/recv
+
